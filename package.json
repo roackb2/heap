@@ -1,0 +1,22 @@
+{
+  "name": "heap",
+  "version": "1.0.0",
+  "description": "heap implementation for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roackb2/heap.git"
+  },
+  "keywords": [
+    "heap"
+  ],
+  "author": "Jay Liang <roackb2@gmail.com> (https://www.facebook.com/profile.php?id=1391931108)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roackb2/heap/issues"
+  },
+  "homepage": "https://github.com/roackb2/heap#readme"
+}
